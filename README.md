@@ -4,7 +4,7 @@
 
 <a href="https://danmoraes1.github.io/WeCare/">Link do Projeto<a/>
 
-<img src="https://github.com/Danmoraes1/WeCare/blob/main/WeCare/imgs/WecareTela1.png?raw=true"> 
+<img src="https://github.com/Danmoraes1/WeCare/blob/main/imgs/WecareTela1.png?raw=true"> 
 
 <div align="center">
   
@@ -26,5 +26,5 @@ Essas tags, quando bem utilizadas, melhoram o <strong><i>SEO da Página</i></str
 <strong>Responsivo</strong> 📱
 <br>
 <br>
-<img src="https://github.com/Danmoraes1/WeCare/blob/main/WeCare/imgs/Wecareresponsive1.png?raw=true" >  
+<img src="https://github.com/Danmoraes1/WeCare/blob/main/imgs/Wecareresponsive1.png?raw=true" >  
 </div>
